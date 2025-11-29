@@ -1,5 +1,3 @@
-Segue um `README.md` pronto para você colocar no GitHub. Depois só ajustar o nome do autor, link do repo e qualquer detalhe que queira personalizar.
-
 ````markdown
 # RPG Life – Gamificação da Vida Real
 
