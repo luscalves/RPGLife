@@ -1,4 +1,3 @@
-````markdown
 # RPG Life – Gamificação da Vida Real
 
 Aplicativo mobile em **React Native (Expo)** que transforma tarefas do dia a dia em **missões de RPG**, com **XP**, **níveis** e **atributos de herói**.  
